@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Arcahv",
+  "base_artist": "Feryquitous",
+  "createdAt": "2026-03-31T14:48:35.455769Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Arcahv",
+      "artist": "Feryquitous",
+      "has_synced": true,
+      "path": "select/01_Arcahv_Feryquitous.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Arcahv (Terminal)",
+      "artist": "Feryquitous",
+      "has_synced": true,
+      "path": "select/02_Arcahv_(Terminal)_Feryquitous.lrc"
+    }
+  ]
+}
